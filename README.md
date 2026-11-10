@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Gopal 👋
 
 ### UI/UX Designer & Graphic Designer 🎨
 
